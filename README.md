@@ -55,6 +55,27 @@ This project analyzes 911 emergency call data . The main goal is to explore, vis
 2. Run the notebook `911_Call_Data_Capstone_Project.ipynb` in a Jupyter environment.
 3. Follow along with the EDA steps and visualizations.
 
+## 📊 Interactive Tableau Dashboard
+
+This interactive Tableau dashboard visualizes key insights from the 911 emergency call data.  
+It includes:
+
+- Total call count by reason (EMS, Fire, Traffic)
+- Calls by hour across the day for each emergency type
+- Heatmap showing 911 call frequency across days and hours
+- Filters for Township, Zip, Day of Week, and Emergency Type
+
+📸 Dashboard Preview:
+![911 Dashboard Screenshot](Annotation 2025-06-04 210735.png)
+
+🔗 [Click here to view the full Tableau Dashboard](https://public.tableau.com/app/profile/narsimha.reddy.akiti/viz/911EmergencyCallsDashboard/Dashboard1?publish=yes)
+
+---
+
+## Conclusion
+This project demonstrates how to process, explore, and extract meaningful insights from real-world emergency call data using Python.
+
+
 ##  Conclusion
 This project demonstrates how to process, explore, and extract meaningful insights from real-world emergency call data using Python.
 
